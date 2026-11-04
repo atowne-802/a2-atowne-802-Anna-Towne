@@ -20,9 +20,13 @@ summary
 **IMAGE**
 
 ## Plotly
-summary
+I have used plotly before but it made the graphing process super easy, the documentation is clear and there is a ton of overhead making it a little more complicated to customize. However it makes it really easy to just get a graph with the basics of what you want. It is all in python, and when working with python pandas makes it super easy to clean the data.
 
-**IMAGE**
+Also, while custimization is a bit more complicated, their documentation is incredible and they have a search bar on the side for most things. And if you don't know the exact wording to look it up on the site, I found googling it with plotly documentation sends you to the right area to find the documentation you need. 
+
+Lastly, while there is not a legend on the side for bill length, they are size differently based on size. Also, when you hover over the points it will tell you the exact size.
+
+![alt text](img/plotly.png)
 
 ## ggplot2 (R)
 summary
@@ -42,3 +46,5 @@ summary
     - https://observablehq.com/@d3/scatterplot-with-shapes
     - https://d3js.org/what-is-d3
     - https://d3-graph-gallery.com/graph/custom_legend.html
+- Plotly documentation
+    - https://plotly.com/python/line-and-scatter/
