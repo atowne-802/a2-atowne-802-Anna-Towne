@@ -10,9 +10,11 @@ I used a documentation and example code from 3 different sites but all were main
 ![alt text](img/d3.png)
 
 ## Altair
-summary
+It is a Python library that is pretty easy to use. Documentation is fairly good, when you want to change things from the basic it gets a little more complex with knowing what funcitons can go in what but overall it made customization pretty easy. 
 
-**IMAGE**
+Also it is super easy to add a hover to get the exact stats of the penguin you are looking at. You can even add things that arn't apart of the visualizaiton like male/female. As long as it is in the dataset.
+
+![alt text](img/Altair.png)
 
 ## Flourish
 summary
@@ -42,9 +44,12 @@ summary
 - made stuff a lot prettier by doing xyz
 
 #### Resources Used
-- Used as base code for d3, overall basic syntax of graphing with d3 was learned from this / documentation
+- D3 documentaiton
+    - Used as base code for d3, overall basic syntax of graphing with d3 was learned from this / documentation
     - https://observablehq.com/@d3/scatterplot-with-shapes
     - https://d3js.org/what-is-d3
     - https://d3-graph-gallery.com/graph/custom_legend.html
 - Plotly documentation
     - https://plotly.com/python/line-and-scatter/
+- Altair documation
+    - https://altair-viz.github.io/user_guide/api.html
