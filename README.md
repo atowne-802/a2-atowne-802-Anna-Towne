@@ -17,9 +17,11 @@ Also it is super easy to add a hover to get the exact stats of the penguin you a
 ![alt text](img/Altair.png)
 
 ## Flourish
-summary
+Flourish was not a library so much as a really easy to use website that makes graphing super simple. You pick from a much of different graph options, upload your csv, decide which data columns are which part of the diagram, and then can further customize from there.
 
-**IMAGE**
+This was the quickest one to make, no code which was sad but I can see why it is so popular. While there were a TON of customization things, font alignment, size, colors, shapes. And tons of templates for many different graphs, because it is a site and not code that the user can manipulate down to the pixel, there are limitations. For example, I couldnt put the legend on the side of the graph, had to be on top. And I couldnt get a legend for the bill length. I also couldn't excentuate the differnce in bill sizes like in D3. 
+
+![alt text](img/flourish.png)
 
 ## Plotly
 I have used plotly before but it made the graphing process super easy, the documentation is clear and there is a ton of overhead making it a little more complicated to customize. However it makes it really easy to just get a graph with the basics of what you want. It is all in python, and when working with python pandas makes it super easy to clean the data.
@@ -53,3 +55,5 @@ summary
     - https://plotly.com/python/line-and-scatter/
 - Altair documation
     - https://altair-viz.github.io/user_guide/api.html
+- Flourish
+    - no documentation just their site
