@@ -33,9 +33,9 @@ Lastly, while there is not a legend on the side for bill length, they are size d
 ![alt text](img/plotly.png)
 
 ## ggplot2 (R)
-summary
+This was done in R, honestly the hardest part of this grpah was downlaoding R and getting the kernal to connect to the jupyter notebook. Overall the data processing in R was super easy, and the graph creation with ggplot2 was simple. It was fairly simple and auto did a ton of features like background grid, truncating the axises, and the legend with both size and species was super quick. This was probably the easiest to do and get close to the original (which makes sense since it is in the same language and graphing library).
 
-**IMAGE**
+![alt text](img/ggplot2.png)
 
 ---
 ### Technical Achievements
@@ -57,3 +57,6 @@ summary
     - https://altair-viz.github.io/user_guide/api.html
 - Flourish
     - no documentation just their site
+    - https://app.flourish.studio/projects
+- ggplot2
+    - https://www.rdocumentation.org/packages/ggplot2/versions/0.9.0/topics/ggplot
